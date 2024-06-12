@@ -1,2 +1,2 @@
-# Cat-logo-de-Sementes
+# Catalogo-de-Sementes
 Projeto Agrinho 2024
